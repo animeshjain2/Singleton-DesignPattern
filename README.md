@@ -1,6 +1,6 @@
 # Singleton-DesignPattern
 Singleton Design Pattern
-Singleton class - 
+Singleton class- 
 
 The class objective is to create only 1 and 1 objects.
 Establishing the DB Connection using Singleton - 
